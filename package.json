@@ -1,0 +1,23 @@
+{
+    "name": "com.ryanellisdale.package-template",
+    "displayName": "Package Template",
+    "version": "1.0.0",
+    "description": "A default template package following Unity conventions.\nhttps://docs.unity3d.com/Manual/PackagesList.html",
+    "unity": "2019.1",
+    "dependencies": {},
+    "keywords": ["Package", "Template", "Layout", "Default"],
+    "author": 
+    {
+        "name": "Ryan-Ellis Dale",
+        "email": "RyanEllisDale@protonmail.com",
+        "url": "https://ryanellisdale.github.io/Portfolio/"
+    },
+    "samples": 
+    [
+        {
+            "displayName": "Sample Scene",
+            "description": "Miniture scene that shows the example runtime and editor scripts.",
+            "path": "Samples/SampleScene"
+        }
+    ]
+}
