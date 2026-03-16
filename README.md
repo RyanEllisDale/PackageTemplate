@@ -9,7 +9,7 @@
 
 [Markdown Syntax](https://markdownguide.offshoot.io/basic-syntax/)
 
-[GitHub Repo]()
+[GitHub Repo](https://github.com/RyanEllisDale/PackageTemplate)
 
 ## Introduction
 This is a miniaturised Unity Package that I created because I found myself constantly going back and forth between Unity's documentation, my own previous projects, and Youtube tutorials everytime I wanted to create a new package. Instead of doing all that I thought to make it easier and more consistent by designing this template to work off of. 
