@@ -2,14 +2,10 @@
 # Package Template - Read Me
 
 # Documentation Links
-[Unity Package Documentation](https://docs.unity3d.com/Manual/PackagesList.html)
-[Unity Package Layout](https://docs.unity3d.com/6000.3/Documentation/Manual/cus-layout.html)
-[Unity Package Creation](https://docs.unity3d.com/2020.3/Documentation/Manual/CustomPackages.html)
-[Unity Package Manifest](https://docs.unity3d.com/2020.3/Documentation/Manual/upm-manifestPkg.html)
-
-[Markdown Syntax](https://markdownguide.offshoot.io/basic-syntax/)
-
-[GitHub Repo](https://github.com/RyanEllisDale/PackageTemplate)
+[Unity Package Documentation](https://docs.unity3d.com/Manual/PackagesList.html) \n
+[Unity Package Layout](https://docs.unity3d.com/6000.3/Documentation/Manual/cus-layout.html) \n
+[Unity Package Creation](https://docs.unity3d.com/2020.3/Documentation/Manual/CustomPackages.html) \n
+[Unity Package Manifest](https://docs.unity3d.com/2020.3/Documentation/Manual/upm-manifestPkg.html) \n /
 
 ## Introduction
 This is a miniaturised Unity Package that I created because I found myself constantly going back and forth between Unity's documentation, my own previous projects, and Youtube tutorials everytime I wanted to create a new package. Instead of doing all that I thought to make it easier and more consistent by designing this template to work off of. 
