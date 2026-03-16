@@ -1,5 +1,4 @@
-# Hello World !
-# Package Template - Read Me
+# Package Template
 
 # Documentation Links
 [Unity Package Documentation](https://docs.unity3d.com/Manual/PackagesList.html)\
