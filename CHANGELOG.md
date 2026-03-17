@@ -55,3 +55,13 @@ All notable changes to this project will be documented in this file.
 - Removed `RuntimeExample Awake()`
 
 ---
+
+## [1.0.1] - 2026-03-17
+### Added
+- License field to package.json  
+- LicenseURL field to package.json
+
+### Changed
+- Patch Version to .1
+
+---

@@ -1,10 +1,12 @@
 {
     "name": "com.ryanellisdale.package-template",
     "displayName": "Package Template",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A default template package following Unity conventions.\nhttps://docs.unity3d.com/Manual/PackagesList.html",
     "unity": "2019.1",
     "dependencies": {},
+    "license": "CC0",
+    "licensesURL": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
     "keywords": ["Package", "Template", "Layout", "Default"],
     "author": 
     {
